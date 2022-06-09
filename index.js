@@ -1,1 +1,7 @@
-// Code your solution in this file!
+function distanceFromHqInBlocks(pickUpLocation, Headquarters) {
+       return pickUpLocation - Headquarters ;
+}
+let blocks = distanceFromHqInBlocks(43 ,42);
+
+
+
